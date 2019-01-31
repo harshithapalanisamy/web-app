@@ -1,2 +1,3 @@
-# web-app
-java web app
+# maven-project
+
+Simple Maven Project
