@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="/w3images/hamburger.jpg" alt="Hamburger Catering" width="1600" height="800">
+  <img class="w3-image" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffood.fnr.sndimg.com%2Fcontent%2Fdam%2Fimages%2Ffood%2Ffullset%2F2017%2F8%2F11%2F0%2FFND_HE-Inflammation-Opener_s4x3.jpg.rend.hgtvcom.966.725.suffix%2F1502480247120.jpeg&imgrefurl=https%3A%2F%2Fwww.foodnetwork.com%2Fhealthy%2Fphotos%2Ffoods-that-cause-inflammation&docid=8xo3qwFo5HAgqM&tbnid=NWKumGT6bYeThM%3A&vet=10ahUKEwjx1o_ThKfgAhUBMuwKHfwxDUcQMwh6KA8wDw..i&w=966&h=725&bih=526&biw=1067&q=food%20images&ved=0ahUKEwjx1o_ThKfgAhUBMuwKHfwxDUcQMwh6KA8wDw&iact=mrc&uact=8" alt="Hamburger Catering" width="1600" height="800">
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     <h1 class="w3-xxlarge">Le Catering</h1>
   </div>
